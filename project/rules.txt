@@ -1,0 +1,21 @@
+# keyword,CATEGORY,weight
+prize,MONEY,20
+urgent,URGENCY,15
+otp,CREDENTIAL,30
+click,LINK,10
+bank,IMPERSONATION,10
+lottery,MONEY,25
+immediately,URGENCY,15
+cnic,CREDENTIAL,25
+easypaisa,IMPERSONATION,10
+password,CREDENTIAL,30
+winner,MONEY,20
+link,LINK,10
+suspended,URGENCY,15
+jazzcash,IMPERSONATION,10
+reward,MONEY,15
+verify,CREDENTIAL,15
+bisp,IMPERSONATION,15
+expires,URGENCY,10
+cash,MONEY,10
+pin,CREDENTIAL,20
